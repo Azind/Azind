@@ -2,8 +2,8 @@
 
 <div style="display: flex">
   <a href="https://github.com/Azind"></a>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Azind&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azind&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Azind&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azind&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Contact with me:
