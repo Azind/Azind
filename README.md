@@ -1,7 +1,7 @@
 ## Hi there, I'm DaadApTar - aka Azind
 
 ### Contact with me:
-[<img src="https://img.icons8.com/color/50/000000/discord-logo.png"/>]()
+[<img src="https://img.icons8.com/color/50/000000/discord-logo.png"/>](https://discord.gg/t3msbthSWN)
 [<img src="https://img.icons8.com/color/50/000000/vk-circled.png"/>](https://vk.com/sergeyinco)
 
 ### Languages and tools:
